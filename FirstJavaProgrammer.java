@@ -1,5 +1,5 @@
-public class FirstjavaProgrammer{
+public class FirstJavaProgrammer{
    public static void main(String[] args){
-         System.out.print("Capgemini's training started");
+         System.out.print("BridgeLabz's training started");
 }}
 
